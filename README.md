@@ -1,5 +1,5 @@
-# ersilia-figures
-Code and underlying data for figures used ont the Ersilia website and presentations.
+# Ersilia Figures
+This repo contains the code and underlying data for figures used on the Ersilia website and presentations, as well as useful functions to obtain the desired Ersilia style.
 Please read the [Ersilia Brand Guidelines](https://medium.com/ersiliaio/ersilia-open-source-initiative-brand-guidelines-130fe53104f5) for further information on how to format Ersilia visual assets.
 
 ## Duotone
