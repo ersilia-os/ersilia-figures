@@ -1,5 +1,5 @@
 # ersilia-figures
-Code and underlying data for figures used in Ersilia Website Presentations.
+Code and underlying data for figures used ont the Ersilia website and presentations.
 Please read the [Ersilia Brand Guidelines](https://medium.com/ersiliaio/ersilia-open-source-initiative-brand-guidelines-130fe53104f5) for further information on how to format Ersilia visual assets.
 
 ## Duotone
