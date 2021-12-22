@@ -1,2 +1,2 @@
 # ersilia-figures
-Predefined styles for figures in a paper format
+Code and underlying data for figures used in Ersilia Presentations
