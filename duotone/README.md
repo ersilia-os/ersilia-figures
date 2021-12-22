@@ -2,7 +2,7 @@
 Converts images to the duotone filter as specified in the Ersilia Brand Guidelines. Colors in the filter are:
 - dark: #50285a (plum)
 - light: #bee64b (green, default)
-- 
+
 ## Requirements
 ```
 opencv-python
