@@ -1,0 +1,205 @@
+country,code,population,income,who_region
+Afghanistan,AFG,38277536.32,LIC,Eastern Mediterranean
+Albania,ALB,2720353.061,UMIC,European
+Algeria,DZA,41847289.68,LMIC,African
+American Samoa,ASM,55504.94584,UMIC,Unknown
+Andorra,AND,83064.21144,HIC,European
+Angola,AGO,30138521.38,LMIC,African
+Antigua and Barbuda,ATG,88489.34892,HIC,Region of the Americas
+Argentina,ARG,45115284.36,UMIC,Region of the Americas
+Armenia,ARM,3019674.304,UMIC,European
+Australia,AUS,24568113.49,HIC,Western Pacific
+Austria,AUT,8916185.491,HIC,European
+Azerbaijan,AZE,10278673.96,UMIC,European
+Bahamas,BHS,376940.2792,HIC,Region of the Americas
+Bahrain,BHR,1442691.321,HIC,Eastern Mediterranean
+Bangladesh,BGD,159259849.5,LMIC,South-East Asia
+Barbados,BRB,297770.801,HIC,Region of the Americas
+Belarus,BLR,9500785.272,UMIC,European
+Belgium,BEL,11419165.53,HIC,European
+Belize,BLZ,410093.5229,UMIC,Region of the Americas
+Benin,BEN,12665751.05,LMIC,African
+Bermuda,BMU,64030.47259,HIC,Unknown
+Bhutan,BTN,754249.8614,LMIC,South-East Asia
+Bolivia (Plurinational State of),BOL,12011749.54,LMIC,Region of the Americas
+Bosnia and Herzegovina,BIH,3299982.326,UMIC,European
+Botswana,BWA,2338721.303,UMIC,African
+Brazil,BRA,216664813.7,UMIC,Region of the Americas
+Brunei Darussalam,BRN,437118.5713,HIC,Western Pacific
+Bulgaria,BGR,6934624.606,UMIC,European
+Burkina Faso,BFA,22691773.25,LIC,African
+Burundi,BDI,11934360.75,LIC,African
+Cabo Verde,CPV,26171531.6,LMIC,African
+Cambodia,KHM,563563.0874,LMIC,Western Pacific
+Cameroon,CMR,16603117.7,LMIC,African
+Canada,CAN,29101868.38,HIC,Region of the Americas
+Central African Republic,CAF,36519840.27,LIC,African
+Chad,TCD,5299863.147,LIC,African
+Chile,CHL,16398859.74,HIC,Region of the Americas
+China,CHN,18198359.04,UMIC,Western Pacific
+Colombia,COL,1422350422.0,UMIC,Region of the Americas
+Comoros,COM,47776679.01,LMIC,African
+Congo,COG,714351.0703,LMIC,African
+Cook Islands,COK,5265846.276,UMIC,Western Pacific
+Costa Rica,CRI,17986.67428,UMIC,Region of the Americas
+Côte d'Ivoire,CIV,4716743.813,LMIC,African
+Croatia,HRV,4247902.462,HIC,European
+Cuba,CUB,11358510.25,UMIC,Region of the Americas
+Cyprus,CYP,1313477.209,HIC,European
+Czechia,CZE,10643486.52,HIC,European
+Democratic People's Republic of Korea,PRK,26232860.94,LIC,South-East Asia
+Democratic Republic of the Congo,COD,87670443.78,LIC,African
+Denmark,DNK,5802733.424,HIC,European
+Djibouti,DJI,1202796.732,LMIC,Eastern Mediterranean
+Dominica,DMA,68681.44698,UMIC,Region of the Americas
+Dominican Republic,DOM,10881854.5,UMIC,Region of the Americas
+Ecuador,ECU,17588392.32,UMIC,Region of the Americas
+Egypt,EGY,99069551.17,LMIC,Eastern Mediterranean
+El Salvador,SLV,6256142.856,LMIC,Region of the Americas
+Equatorial Guinea,GNQ,1419839.102,UMIC,African
+Eritrea,ERI,6711213.332,LIC,African
+Estonia,EST,1312361.121,HIC,European
+Eswatini,SWZ,1142108.626,LMIC,African
+Ethiopia,ETH,107591163.7,LIC,African
+Fiji,FJI,911248.4572,UMIC,Western Pacific
+Finland,FIN,5534094.633,HIC,European
+France,FRA,66204314.96,HIC,European
+Gabon,GAB,1750038.039,UMIC,African
+Gambia,GMB,2245865.707,LIC,African
+Georgia,GEO,3664751.935,UMIC,European
+Germany,DEU,84914055.85,HIC,European
+Ghana,GHA,31536231.95,LMIC,African
+Greece,GRC,10337171.62,HIC,European
+Greenland,GRL,56188.39479,HIC,Unknown
+Grenada,GRD,103215.2663,UMIC,Region of the Americas
+Guam,GUM,170627.5313,HIC,Unknown
+Guatemala,GTM,17776489.98,UMIC,Region of the Americas
+Guinea,GIN,12643148.93,LIC,African
+Guinea-Bissau,GNB,1901191.442,LIC,African
+Guyana,GUY,770705.2213,UMIC,Region of the Americas
+Haiti,HTI,12402098.71,LIC,Region of the Americas
+Honduras,HND,9814395.703,LMIC,Region of the Americas
+Hungary,HUN,9674412.775,HIC,European
+Iceland,ISL,344876.258,HIC,European
+India,IND,1390706968.0,LMIC,South-East Asia
+Indonesia,IDN,259465835.5,UMIC,South-East Asia
+Iran (Islamic Republic of),IRN,84297882.14,UMIC,Eastern Mediterranean
+Iraq,IRQ,42119489.94,UMIC,Eastern Mediterranean
+Ireland,IRL,4910357.386,HIC,European
+Israel,ISR,9309583.139,HIC,European
+Italy,ITA,60313169.95,HIC,European
+Jamaica,JAM,2810753.784,UMIC,Region of the Americas
+Japan,JPN,127788411.1,HIC,Western Pacific
+Jordan,JOR,11636716.67,UMIC,Eastern Mediterranean
+Kazakhstan,KAZ,18392068.15,UMIC,European
+Kenya,KEN,50227709.45,LMIC,African
+Kiribati,KIR,118620.9421,LMIC,Western Pacific
+Kuwait,KWT,4426561.238,HIC,Eastern Mediterranean
+Kyrgyzstan,KGZ,6535458.86,LMIC,European
+Lao People's Democratic Republic,LAO,7158249.726,LMIC,Western Pacific
+Latvia,LVA,1915292.092,HIC,European
+Lebanon,LBN,5177068.9,UMIC,Eastern Mediterranean
+Lesotho,LSO,2091587.941,LMIC,African
+Liberia,LBR,4789906.937,LIC,African
+Libya,LBY,6735543.07,UMIC,Eastern Mediterranean
+Lithuania,LTU,2794222.637,HIC,European
+Luxembourg,LUX,618550.0596,HIC,European
+Madagascar,MDG,26690344.0,LIC,African
+Malawi,MWI,18442238.48,LIC,African
+Malaysia,MYS,31301402.28,UMIC,Western Pacific
+Maldives,MDV,498414.0689,UMIC,South-East Asia
+Mali,MLI,21917466.99,LIC,African
+Malta,MLT,439220.7495,HIC,European
+Marshall Islands,MHL,56842.2485,UMIC,Western Pacific
+Mauritania,MRT,4014273.45,LMIC,African
+Mauritius,MUS,1276662.671,HIC,African
+Mexico,MEX,124940174.7,UMIC,Region of the Americas
+Micronesia (Federated States of),FSM,102115.6027,LMIC,Western Pacific
+Monaco,MCO,37572.11976,HIC,European
+Mongolia,MNG,3387589.157,LMIC,Western Pacific
+Montenegro,MNE,620339.572,UMIC,European
+Morocco,MAR,35952185.54,LMIC,Eastern Mediterranean
+Mozambique,MOZ,29528036.87,LIC,African
+Myanmar,MMR,54676900.9,LMIC,South-East Asia
+Namibia,NAM,2403123.925,UMIC,African
+Nauru,NRU,10551.2994,HIC,Western Pacific
+Nepal,NPL,30416382.4,LMIC,South-East Asia
+Netherlands,NLD,17156788.07,HIC,European
+New Zealand,NZL,4495667.097,HIC,Western Pacific
+Nicaragua,NIC,6510364.641,LMIC,Region of the Americas
+Niger,NER,23295352.88,LIC,African
+Nigeria,NGA,214823785.7,LMIC,African
+Niue,NIU,1671.545324,UMIC,Western Pacific
+North Macedonia,MKD,2152731.063,UMIC,European
+Northern Mariana Islands,MNP,42494.47711,HIC,Unknown
+Norway,NOR,5348846.985,HIC,European
+Oman,OMN,4583998.577,HIC,Eastern Mediterranean
+Pakistan,PAK,224062846.8,LMIC,Eastern Mediterranean
+Palau,PLW,18007.43431,HIC,Western Pacific
+Palestine,PSE,4956596.668,LMIC,Unknown
+Panama,PAN,4160456.851,HIC,Region of the Americas
+Papua New Guinea,PNG,9866614.402,LMIC,Western Pacific
+Paraguay,PRY,6930455.029,UMIC,Region of the Americas
+Peru,PER,33995397.38,UMIC,Region of the Americas
+Philippines,PHL,112142764.3,LMIC,Western Pacific
+Poland,POL,38434444.92,HIC,European
+Portugal,PRT,10651262.92,HIC,European
+Puerto Rico,PRI,3521431.422,HIC,Region of the Americas
+Qatar,QAT,2864548.179,HIC,Eastern Mediterranean
+Republic of Korea,KOR,53398251.98,HIC,Western Pacific
+Republic of Moldova,MDA,3688191.085,LMIC,European
+Romania,ROU,19237066.4,HIC,European
+Russian Federation,RUS,146717427.5,UMIC,European
+Rwanda,RWA,12688117.31,LIC,African
+Saint Kitts and Nevis,KNA,59508.16529,HIC,Region of the Americas
+Saint Lucia,LCA,174625.7404,UMIC,Region of the Americas
+Saint Vincent and the Grenadines,VCT,113143.665,UMIC,Region of the Americas
+Samoa,WSM,211353.8612,UMIC,Western Pacific
+San Marino,SMR,33099.76394,HIC,European
+Sao Tome and Principe,STP,205385.1395,LMIC,African
+Saudi Arabia,SAU,35731972.4,HIC,Eastern Mediterranean
+Senegal,SEN,15134067.15,LMIC,African
+Serbia,SRB,8746784.806,UMIC,European
+Seychelles,SYC,102145.2965,HIC,African
+Sierra Leone,SLE,8284755.476,LIC,African
+Singapore,SGP,5667451.464,HIC,Western Pacific
+Slovakia,SVK,5437222.746,HIC,European
+Slovenia,SVN,2074270.565,HIC,European
+Solomon Islands,SLB,655631.9367,LMIC,Western Pacific
+Somalia,SOM,20343111.95,LIC,Eastern Mediterranean
+South Africa,ZAF,55588424.52,UMIC,African
+South Sudan,SSD,9282963.047,LIC,African
+Spain,ESP,46021217.74,HIC,European
+Sri Lanka,LKA,21854451.85,LMIC,South-East Asia
+Sudan,SDN,40808424.84,LIC,Eastern Mediterranean
+Suriname,SUR,575887.9168,UMIC,Region of the Americas
+Sweden,SWE,10222545.75,HIC,European
+Switzerland,CHE,8775203.811,HIC,European
+Syrian Arab Republic,SYR,14491246.78,LIC,Eastern Mediterranean
+Taiwan (Province of China),TWN,23620242.5,HIC,Unknown
+Tajikistan,TJK,9492413.686,LIC,European
+Thailand,THA,70111586.24,UMIC,South-East Asia
+Timor-Leste,TLS,1334823.337,LMIC,South-East Asia
+Togo,TGO,7921526.585,LIC,African
+Tokelau,TKL,1410.791264,LMIC,Western Pacific
+Tonga,TON,102350.0844,UMIC,Western Pacific
+Trinidad and Tobago,TTO,1387457.083,HIC,Region of the Americas
+Tunisia,TUN,11571604.49,LMIC,Eastern Mediterranean
+Turkey,TUR,81359692.93,UMIC,Unknown
+Turkmenistan,TKM,5083080.255,UMIC,European
+Tuvalu,TUV,11797.83451,UMIC,Western Pacific
+Uganda,UGA,41117856.24,LIC,African
+Ukraine,UKR,44042430.65,LMIC,European
+United Arab Emirates,ARE,9241703.994,HIC,Eastern Mediterranean
+United Kingdom,GBR,67220446.94,HIC,Unknown
+United Republic of Tanzania,TZA,56736116.17,LMIC,African
+United States of America,USA,327978729.9,HIC,Region of the Americas
+United States Virgin Islands,VIR,103985.3275,HIC,Unknown
+Uruguay,URY,3436136.699,HIC,Region of the Americas
+Uzbekistan,UZB,33677096.35,LMIC,European
+Vanuatu,VUT,294550.4576,LMIC,Western Pacific
+Venezuela (Bolivarian Republic of),VEN,28068985.78,UMIC,Region of the Americas
+Viet Nam,VNM,96372928.24,LMIC,Western Pacific
+Yemen,YEM,31502896.33,LIC,Eastern Mediterranean
+Zambia,ZMB,18237682.67,LMIC,African
+Zimbabwe,ZWE,15010852.06,LMIC,African
